@@ -5,10 +5,8 @@
 Nicolas Vicente | 21 anos | Guarulhos - SP 🇧🇷
 | Estudante de Análise e Desenvolvimento de Sistemas > @ENIAC • Learning C & logic
 Future developer in the making 
-Tech lover | Always evolving 
+Tech lover | 
 Pronouns: he/him
-
-###
 
 
 <img
@@ -19,9 +17,8 @@ Pronouns: he/him
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
       
-          
-    
-## 🚀 Technologies I'm learning
+        
+
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
@@ -31,3 +28,4 @@ Pronouns: he/him
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
