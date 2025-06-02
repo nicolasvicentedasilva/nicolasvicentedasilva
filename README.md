@@ -4,9 +4,9 @@
 
 
 
-## 📚 Atualmente aprendendo
+##  Atualmente aprendendo
 
-### 💻 Programação & Lógica
+###  Programação & Lógica
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-6A1B9A?style=for-the-badge&logo=code&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-1976D2?style=for-the-badge&logo=matrix&logoColor=white)
@@ -25,7 +25,7 @@
 ![Scripting](https://img.shields.io/badge/Scripting-607D8B?style=for-the-badge&logo=terminal&logoColor=white)
 
 
-### 🤝 Soft Skills
+###  Soft Skills
 ![Comunicação](https://img.shields.io/badge/Comunicação-E91E63?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-4CAF50?style=for-the-badge&logo=teams&logoColor=white)
 ![Empatia](https://img.shields.io/badge/Empatia-AB47BC?style=for-the-badge&logo=heart&logoColor=white)
@@ -36,29 +36,13 @@
 
 </div>
 
-## 📌 Projetos em destaque
-
-- 💡 [Calculadora simples em C](https://github.com/seuusuario/calculadora-em-c)
-- 🎲 [Jogo da adivinhação (C)](https://github.com/seuusuario/jogo-adivinhacao)
-- 📋 [Conversor de temperatura](https://github.com/nicolasvicentedasilva/conversor-temperatura)
-
-
-## 📚 Atualmente estudando / Currently learning:
-
-- Linguagem C / C language  
-- Manutenção e configuração de computadores / Computer maintenance and configuration  
-- Conhecimentos sobre redes / Networking fundamentals   
-- Administração de sistemas Linux: instalação, configuração de pacotes, troubleshooting e monitoramento de logs / Linux system administration: installation, package configuration, troubleshooting, and log monitoring  
-- Administração da suíte Office365 / Office365 administration  
-- Automação de tarefas com scripts / Task automation with scripting  
-- Noções de negócios em TI e planejamento com Canvas / IT business fundamentals and business model canvas 
-
-## 🧭 Próximos passos:
+##  Próximos passos:
 - Aprender estruturas de dados básicas (vetores, matrizes)
 - Criar repositórios bem documentados
 - Estudar HTML e CSS para montar meu próprio site de portfólio
 
-## 🤝 Contato  
-📩 **nicolasvicentedasilvapessoal@gmail.com**  
-📱 [WhatsApp](https://wa.me/11981978568)
+##  Conecte-se comigo: 
+ [LinkedIn](https://www.linkedin.com/in/nicolasvicentedasilva) 
+ [E-mail](mailto:nicolasvicentedasilva@email.com) 
+ [WhatsApp](https://wa.me/11981978568)
 
