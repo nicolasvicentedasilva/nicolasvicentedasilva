@@ -6,9 +6,7 @@
 
 ---
 
-Olá! Sou o Nicolas. Meu foco atual reside na construção de uma base técnica sólida, com ênfase em lógica de programação, arquitetura de sistemas e boas práticas de desenvolvimento. Através de projetos práticos e estudos contínuos, busco aplicar conhecimentos teóricos para resolver problemas reais e otimizar processos.
-
-*Atualmente em busca de uma oportunidade de estágio.*
+Olá! Sou o Nicolas. Meu foco atual reside na construção de uma base técnica sólida, com ênfase em lógica de programação, arquitetura de sistemas e boas práticas de desenvolvimento.
 
 ---
 
