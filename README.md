@@ -1,7 +1,4 @@
-<div align="center">
-<a href="https://www.linkedin.com/in/nicolasvicentedasilva/"  target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-  
+
 </a>
 
 ---
